@@ -43,6 +43,7 @@ Install `@eslint-recommended/eslint-config-typescript` and its peer dependencies
 
 ```sh
 npm i -D \
+  @typescript-eslint/eslint-plugin \
   eslint \
   eslint-config-standard-with-typescript \
   eslint-plugin-eslint-comments \
@@ -50,7 +51,7 @@ npm i -D \
   eslint-plugin-n \
   eslint-plugin-promise \
   eslint-plugin-unicorn \
-  @typescript-eslint/eslint-plugin \
+  typescript \
   @eslint-recommended/eslint-config-typescript
 ```
 
