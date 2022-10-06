@@ -5,6 +5,14 @@
 
 Recommended ESLint Shareable Config for TypeScript
 
+## Overview
+
+`@eslint-recommended/eslint-config-typescript` is using following configurations.
+
+- [eslint-config-standard-with-typescript](https://www.npmjs.com/package/eslint-config-standard-with-typescript)
+- [eslint-plugin-unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn)'s recommended
+- [eslint-plugin-eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments)'s recommended
+
 ## Peer dependencies
 
 - [eslint](https://www.npmjs.com/package/eslint)
