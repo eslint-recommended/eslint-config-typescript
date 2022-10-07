@@ -4,5 +4,18 @@ module.exports = {
     'standard-with-typescript',
     'plugin:unicorn/recommended',
     'plugin:eslint-comments/recommended'
+  ],
+  overrides: [
+    {
+      files: [
+        '*.ts'
+      ],
+      plugins: [
+        'tsdoc'
+      ],
+      rules: {
+        'tsdoc/syntax': 'warn'
+      }
+    }
   ]
 }
