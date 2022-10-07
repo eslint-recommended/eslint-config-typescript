@@ -1,9 +1,4 @@
+// eslint-disable-next-line unicorn/prefer-module
 module.exports = {
-  extends: './index.js',
-  rules: {
-    'unicorn/prefer-module': 'off'
-  },
-  parserOptions: {
-    project: './tsconfig.json'
-  }
+  extends: './index.js'
 }
