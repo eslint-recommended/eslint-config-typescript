@@ -7,11 +7,12 @@ Recommended ESLint Shareable Config for TypeScript
 
 ## Overview
 
-`@eslint-recommended/eslint-config-typescript` is using following configurations.
+`@eslint-recommended/eslint-config-typescript` is using following configurations and plugins.
 
 - [eslint-config-standard-with-typescript](https://www.npmjs.com/package/eslint-config-standard-with-typescript)
-- [eslint-plugin-unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn)'s recommended
-- [eslint-plugin-eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments)'s recommended
+- [eslint-plugin-unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn)
+- [eslint-plugin-eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments)
+- [eslint-plugin-tsdoc](https://www.npmjs.com/package/eslint-plugin-tsdoc)
 
 ## Peer dependencies
 
@@ -22,6 +23,7 @@ Recommended ESLint Shareable Config for TypeScript
 - [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import)
 - [eslint-plugin-n](https://www.npmjs.com/package/eslint-plugin-n)
 - [eslint-plugin-promise](https://www.npmjs.com/package/eslint-plugin-promise)
+- [eslint-plugin-tsdoc](https://www.npmjs.com/package/eslint-plugin-tsdoc)
 - [eslint-plugin-unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn)
 - [typescript](https://www.npmjs.com/package/typescript)
 
@@ -50,6 +52,7 @@ npm i -D \
   eslint-plugin-import \
   eslint-plugin-n \
   eslint-plugin-promise \
+  eslint-plugin-tsdoc \
   eslint-plugin-unicorn \
   typescript \
   @eslint-recommended/eslint-config-typescript
