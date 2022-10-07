@@ -8,6 +8,14 @@ module.exports = {
   overrides: [
     {
       files: [
+        '*.js'
+      ],
+      extends: [
+        'plugin:jsdoc/recommended'
+      ]
+    },
+    {
+      files: [
         '*.ts'
       ],
       plugins: [
