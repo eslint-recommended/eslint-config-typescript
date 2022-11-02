@@ -46,5 +46,12 @@
     "url": "https://github.com/eslint-recommended/eslint-config-typescript/issues"
   },
   "homepage": "https://github.com/eslint-recommended/eslint-config-typescript",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "config",
+    "eslint-config",
+    "eslint",
+    "eslintconfig",
+    "typescript"
+  ]
 }
