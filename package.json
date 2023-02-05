@@ -1,6 +1,6 @@
 {
   "name": "@eslint-recommended/eslint-config-typescript",
-  "version": "10.0.0",
+  "version": "11.0.0",
   "description": "Recommended ESLint Shareable Config for TypeScript",
   "scripts": {
     "lint": "eslint '**/*.js'",
