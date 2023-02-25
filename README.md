@@ -1,5 +1,6 @@
 [![npm version](https://badge.fury.io/js/%40eslint-recommended%2Feslint-config-typescript.svg)](https://badge.fury.io/js/%40eslint-recommended%2Feslint-config-typescript)
 [![lint](https://github.com/eslint-recommended/eslint-config-typescript/actions/workflows/lint.yml/badge.svg)](https://github.com/eslint-recommended/eslint-config-typescript/actions/workflows/lint.yml)
+[![ESLint Recommended](https://img.shields.io/badge/eslint-recommended-%234B32C3)](https://github.com/eslint-recommended)
 
 # @eslint-recommended/eslint-config-typescript
 
@@ -34,4 +35,22 @@ Add `@eslint-recommended/eslint-config-typescript` to `extends` of your ESLint c
     "@eslint-recommended/eslint-config-typescript"
   ]
 }
+```
+
+## Badge
+
+You can use below badge to show that your project is using ESLint Recommended.
+
+[![ESLint Recommended](https://img.shields.io/badge/eslint-recommended-%234B32C3)](https://github.com/eslint-recommended)
+
+Markdown:
+
+```md
+[![ESLint Recommended](https://img.shields.io/badge/eslint-recommended-%234B32C3)](https://github.com/eslint-recommended)
+```
+
+HTML:
+
+```html
+<a href="https://github.com/eslint-recommended"><img src="https://img.shields.io/badge/eslint-recommended-%234B32C3" alt="ESLint Recommended"></a>
 ```
