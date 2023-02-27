@@ -29,11 +29,15 @@ npm i -D @eslint-recommended/eslint-config-typescript
 
 Add `@eslint-recommended/eslint-config-typescript` to `extends` of your ESLint config.
 
-```json
-{
-  "extends": [
-    "@eslint-recommended/eslint-config-typescript"
-  ]
+```js
+module.exports = {
+  extends: [
+    '@eslint-recommended/eslint-config-typescript'
+    // add other rulesets here if needed
+  ],
+  rules: {
+    // override/add rules settings here if needed
+  }
 }
 ```
 
