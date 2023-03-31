@@ -19,11 +19,13 @@ Recommended ESLint Shareable Config for TypeScript
 
 ## Installation
 
-Install `@eslint-recommended/eslint-config-typescript`.
+npm:
 
 ```sh
 npm i -D @eslint-recommended/eslint-config-typescript
 ```
+
+Yarn:
 
 ```sh
 yarn add -D @eslint-recommended/eslint-config-typescript
