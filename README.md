@@ -26,7 +26,7 @@ npm i -D @eslint-recommended/eslint-config-typescript
 ```
 
 ```sh
-yarn add -D @eslint-recommended/eslint-config
+yarn add -D @eslint-recommended/eslint-config-typescript
 ```
 
 ## Usage
