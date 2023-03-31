@@ -25,6 +25,10 @@ Install `@eslint-recommended/eslint-config-typescript`.
 npm i -D @eslint-recommended/eslint-config-typescript
 ```
 
+```sh
+yarn add -D @eslint-recommended/eslint-config-typescript
+```
+
 ## Usage
 
 Add `@eslint-recommended/eslint-config-typescript` to `extends` of your ESLint config.
