@@ -64,3 +64,7 @@ HTML:
 ```html
 <a href="https://github.com/eslint-recommended"><img src="https://img.shields.io/badge/eslint-recommended-%234B32C3" alt="ESLint Recommended"></a>
 ```
+
+## Related packages
+
+- [@eslint-recommended/eslint-config](https://www.npmjs.com/package/@eslint-recommended/eslint-config)
