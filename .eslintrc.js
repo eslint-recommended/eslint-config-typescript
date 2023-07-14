@@ -8,7 +8,7 @@
  * @see https://eslint.org/docs/latest/use/configure/configuration-files
  */
 const config = {
-  extends: './index.js',
+  extends: '@eslint-recommended/eslint-config',
   rules: {
     'unicorn/prefer-module': 'off'
   }
