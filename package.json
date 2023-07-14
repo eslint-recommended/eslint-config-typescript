@@ -24,6 +24,7 @@
     "typescript": "*"
   },
   "devDependencies": {
+    "@tsconfig/node16": "16.1.0",
     "@typescript-eslint/eslint-plugin": "5.62.0",
     "eslint": "8.45.0",
     "eslint-config-standard-with-typescript": "36.0.1",
