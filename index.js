@@ -9,15 +9,12 @@
  */
 const config = {
   extends: [
+    'standard-with-typescript',
     'plugin:unicorn/recommended',
     'plugin:sonarjs/recommended',
     'plugin:eslint-comments/recommended'
   ],
   overrides: [
-    {
-      files: ['*.js', '*.jsx', '*.ts', '*.tsx'],
-      extends: 'standard-with-typescript'
-    },
     {
       files: [
         '*.js',
