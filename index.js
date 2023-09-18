@@ -14,7 +14,7 @@ const config = {
     'plugin:eslint-comments/recommended'
   ],
   overrides: [
-    // https://github.com/standard/eslint-config-standard-with-typescript/tree/v36.1.1#example-config
+    // https://github.com/standard/eslint-config-standard-with-typescript/tree/v39.0.0#example-config
     {
       files: [
         '*.js',
