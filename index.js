@@ -16,11 +16,13 @@ const config = {
   overrides: [
     // https://github.com/standard/eslint-config-standard-with-typescript/tree/v36.1.1#example-config
     {
-      files: ['*.js', '*.jsx', '*.ts', '*.tsx'],
-      extends: 'standard-with-typescript',
-      parserOptions: {
-        project: './tsconfig.json'
-      }
+      files: [
+        '*.js',
+        '*.jsx',
+        '*.ts',
+        '*.tsx'
+      ],
+      extends: 'standard-with-typescript'
     },
     {
       files: [
