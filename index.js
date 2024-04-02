@@ -14,7 +14,7 @@ const config = {
     'plugin:eslint-comments/recommended'
   ],
   overrides: [
-    // https://github.com/standard/eslint-config-standard-with-typescript/tree/v39.0.0#example-config
+    // https://github.com/mightyiam/eslint-config-love/tree/v44.0.0?tab=readme-ov-file#example-config
     {
       files: [
         '*.js',
@@ -22,7 +22,7 @@ const config = {
         '*.ts',
         '*.tsx'
       ],
-      extends: 'standard-with-typescript'
+      extends: 'love'
     },
     {
       files: [

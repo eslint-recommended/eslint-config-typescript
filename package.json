@@ -13,9 +13,9 @@
     "node": ">=18"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/eslint-plugin": "^7.5.0",
     "eslint": "^8.23.1",
-    "eslint-config-standard-with-typescript": "^39.0.0",
+    "eslint-config-love": "^44.0.0",
     "eslint-plugin-eslint-comments": "^3.0.0",
     "eslint-plugin-jsdoc": "^46.0.0",
     "eslint-plugin-sonarjs": "^0.21.0",
@@ -25,9 +25,9 @@
   },
   "devDependencies": {
     "@eslint-recommended/eslint-config": "16.0.3",
-    "@typescript-eslint/eslint-plugin": "6.7.2",
+    "@typescript-eslint/eslint-plugin": "7.5.0",
     "eslint": "8.56.0",
-    "eslint-config-standard-with-typescript": "39.0.0",
+    "eslint-config-love": "44.0.0",
     "eslint-plugin-eslint-comments": "3.2.0",
     "eslint-plugin-jsdoc": "46.9.1",
     "eslint-plugin-sonarjs": "0.21.0",
