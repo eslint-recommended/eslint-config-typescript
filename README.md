@@ -10,7 +10,7 @@ Recommended ESLint Shareable Config for TypeScript
 
 `@eslint-recommended/eslint-config-typescript` is using following configurations and plugins.
 
-- [eslint-config-standard-with-typescript](https://www.npmjs.com/package/eslint-config-standard-with-typescript)
+- [eslint-config-love](https://www.npmjs.com/package/eslint-config-love)
 - [eslint-plugin-unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn)
 - [eslint-plugin-sonarjs](https://www.npmjs.com/package/eslint-plugin-sonarjs)
 - [eslint-plugin-eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments)
