@@ -14,7 +14,7 @@ const config = {
     'plugin:eslint-comments/recommended'
   ],
   overrides: [
-    // https://github.com/mightyiam/eslint-config-love/tree/v44.0.0?tab=readme-ov-file#example-config
+    // https://github.com/mightyiam/eslint-config-love/tree/v44.0.0#example-config
     {
       files: [
         '*.js',
