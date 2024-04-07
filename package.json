@@ -18,7 +18,7 @@
     "eslint": "^8.23.1",
     "eslint-config-love": "^44.0.0",
     "eslint-plugin-jsdoc": "^47.0.0",
-    "eslint-plugin-sonarjs": "^0.21.0",
+    "eslint-plugin-sonarjs": "^0.25.0",
     "eslint-plugin-tsdoc": "^0.2.17",
     "eslint-plugin-unicorn": "^49.0.0",
     "typescript": "*"
@@ -29,7 +29,7 @@
     "eslint": "8.57.0",
     "eslint-config-love": "44.0.0",
     "eslint-plugin-jsdoc": "47.0.2",
-    "eslint-plugin-sonarjs": "0.21.0",
+    "eslint-plugin-sonarjs": "0.25.1",
     "eslint-plugin-tsdoc": "0.2.17",
     "eslint-plugin-unicorn": "49.0.0",
     "typescript": "5.4.4"
