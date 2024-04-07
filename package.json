@@ -20,7 +20,7 @@
     "eslint-plugin-jsdoc": "^47.0.0",
     "eslint-plugin-sonarjs": "^0.21.0",
     "eslint-plugin-tsdoc": "^0.2.17",
-    "eslint-plugin-unicorn": "^48.0.0 || ^49.0.0",
+    "eslint-plugin-unicorn": "^49.0.0",
     "typescript": "*"
   },
   "devDependencies": {
