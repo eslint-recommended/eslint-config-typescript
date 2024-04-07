@@ -11,7 +11,7 @@ const config = {
   extends: [
     'plugin:unicorn/recommended',
     'plugin:sonarjs/recommended',
-    'plugin:eslint-comments/recommended'
+    'plugin:@eslint-community/eslint-comments/recommended'
   ],
   overrides: [
     // https://github.com/mightyiam/eslint-config-love/tree/v44.0.0#example-config
