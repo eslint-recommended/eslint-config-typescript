@@ -13,7 +13,7 @@ Recommended ESLint Shareable Config for TypeScript
 - [eslint-config-love](https://www.npmjs.com/package/eslint-config-love)
 - [eslint-plugin-unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn)
 - [eslint-plugin-sonarjs](https://www.npmjs.com/package/eslint-plugin-sonarjs)
-- [eslint-plugin-eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments)
+- [@eslint-community/eslint-plugin-eslint-comments](https://www.npmjs.com/package/@eslint-community/eslint-plugin-eslint-comments)
 - [eslint-plugin-jsdoc](https://www.npmjs.com/package/eslint-plugin-jsdoc)
 - [eslint-plugin-tsdoc](https://www.npmjs.com/package/eslint-plugin-tsdoc)
 
