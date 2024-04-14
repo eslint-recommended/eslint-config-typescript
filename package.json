@@ -25,6 +25,7 @@
   "devDependencies": {
     "@eslint-community/eslint-plugin-eslint-comments": "4.3.0",
     "@tsconfig/node18": "18.2.4",
+    "@types/node": "18.0.0",
     "eslint": "8.57.0",
     "eslint-config-love": "47.0.0",
     "eslint-plugin-jsdoc": "48.2.3",
