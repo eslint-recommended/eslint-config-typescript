@@ -1,11 +1,10 @@
 // @ts-check
 
-// eslint-disable-next-line jsdoc/valid-types -- https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html
 /** @typedef {import('eslint').ESLint.ConfigData} ConfigData */
 
 /**
  * @type {ConfigData}
- * @see https://eslint.org/docs/latest/use/configure/configuration-files
+ * @see https://eslint.org/docs/latest/use/configure/configuration-files-deprecated
  */
 const config = {
   extends: [
@@ -14,7 +13,7 @@ const config = {
     'plugin:@eslint-community/eslint-comments/recommended'
   ],
   overrides: [
-    // https://github.com/mightyiam/eslint-config-love/tree/v44.0.0#example-config
+    // For JavaScript/TypeScript
     {
       files: [
         '*.js',
@@ -24,6 +23,7 @@ const config = {
       ],
       extends: 'love'
     },
+    // For JavaScript
     {
       files: [
         '*.js',
@@ -33,6 +33,7 @@ const config = {
         'plugin:jsdoc/recommended'
       ]
     },
+    // For TypeScript
     {
       files: [
         '*.ts',
