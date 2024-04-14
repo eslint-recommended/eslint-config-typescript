@@ -4,7 +4,7 @@
 
 /**
  * @type {ConfigData}
- * @see https://eslint.org/docs/latest/use/configure/configuration-files
+ * @see https://eslint.org/docs/latest/use/configure/configuration-files-deprecated
  */
 const config = {
   extends: './index.js',
