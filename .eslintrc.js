@@ -8,6 +8,9 @@
  */
 const config = {
   extends: './index.js',
+  parserOptions: {
+    project: './tsconfig.json'
+  },
   overrides: [
     // https://typescript-eslint.io/troubleshooting/#i-get-errors-telling-me-eslint-was-configured-to-run--however-that-tsconfig-does-not--none-of-those-tsconfigs-include-this-file
     {
