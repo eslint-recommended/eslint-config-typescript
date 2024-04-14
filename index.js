@@ -8,21 +8,12 @@
  */
 const config = {
   extends: [
+    'love',
     'plugin:unicorn/recommended',
     'plugin:sonarjs/recommended',
     'plugin:@eslint-community/eslint-comments/recommended'
   ],
   overrides: [
-    // For JavaScript/TypeScript
-    {
-      files: [
-        '*.js',
-        '*.jsx',
-        '*.ts',
-        '*.tsx'
-      ],
-      extends: 'love'
-    },
     // For JavaScript
     {
       files: [
