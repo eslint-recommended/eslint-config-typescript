@@ -33,12 +33,12 @@ yarn add -D @eslint-recommended/eslint-config-typescript
 
 ## Usage
 
-Add `@eslint-recommended/eslint-config-typescript` to `extends` of your ESLint config.
+Add `@eslint-recommended/typescript` to `extends` of your ESLint config.
 
 ```js
 module.exports = {
   extends: [
-    '@eslint-recommended/eslint-config-typescript'
+    '@eslint-recommended/typescript'
     // add other rulesets here if needed
   ],
   rules: {
