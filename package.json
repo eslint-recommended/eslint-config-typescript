@@ -3,7 +3,7 @@
   "version": "47.0.0",
   "description": "Recommended ESLint Shareable Config for TypeScript",
   "scripts": {
-    "lint": "eslint '**/*.{js,ts}'",
+    "lint": "eslint '**/*.{js,mjs,cjs,jsx,ts,mts,cts,tsx}'",
     "prepublishOnly": "npm run lint"
   },
   "files": [
