@@ -32,8 +32,6 @@ const config = {
     {
       files: [
         '*.ts',
-        '*.mts',
-        '*.cts',
         '*.tsx'
       ],
       plugins: [
