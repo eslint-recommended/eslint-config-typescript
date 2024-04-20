@@ -13,6 +13,10 @@ const config = {
     'plugin:sonarjs/recommended',
     'plugin:@eslint-community/eslint-comments/recommended'
   ],
+  rules: {
+    // https://typescript-eslint.io/rules/explicit-function-return-type/#configuring-in-a-mixed-jsts-codebase
+    '@typescript-eslint/explicit-function-return-type': 'off'
+  },
   overrides: [
     // For JavaScript
     {
@@ -34,7 +38,9 @@ const config = {
         'tsdoc'
       ],
       rules: {
-        'tsdoc/syntax': 'warn'
+        'tsdoc/syntax': 'warn',
+        // https://typescript-eslint.io/rules/explicit-function-return-type/#configuring-in-a-mixed-jsts-codebase
+        '@typescript-eslint/explicit-function-return-type': 'error'
       }
     }
   ]
