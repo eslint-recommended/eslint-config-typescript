@@ -22,6 +22,8 @@ const config = {
     {
       files: [
         '*.js',
+        '*.mjs',
+        '*.cjs',
         '*.jsx'
       ],
       extends: [
@@ -32,6 +34,8 @@ const config = {
     {
       files: [
         '*.ts',
+        '*.mts',
+        '*.cts',
         '*.tsx'
       ],
       plugins: [
