@@ -17,6 +17,11 @@ Recommended ESLint Shareable Config for TypeScript
 - [eslint-plugin-jsdoc](https://www.npmjs.com/package/eslint-plugin-jsdoc)
 - [eslint-plugin-tsdoc](https://www.npmjs.com/package/eslint-plugin-tsdoc)
 
+## Requirements
+
+- Node.js v18 or later
+- ESLint v8
+
 ## Installation
 
 npm:
