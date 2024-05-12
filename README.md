@@ -19,7 +19,7 @@ Recommended ESLint Shareable Config for TypeScript
 
 ## Requirements
 
-- Node.js v18 or later
+- Node.js v20 or later
 - ESLint v8
 
 ## Installation
