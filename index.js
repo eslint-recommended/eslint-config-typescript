@@ -11,8 +11,13 @@ const config = {
     'love',
     'plugin:unicorn/recommended',
     'plugin:sonarjs/recommended',
-    'plugin:@eslint-community/eslint-comments/recommended'
+    'plugin:@eslint-community/eslint-comments/recommended',
+    'plugin:regexp/recommended'
   ],
+  rules: {
+    // Disable because it conflicts with eslint-plugin-regexp.
+    'unicorn/better-regex': 'off'
+  },
   overrides: [
     // For JavaScript
     {
