@@ -16,6 +16,7 @@ Recommended ESLint Shareable Config for TypeScript
 - [@eslint-community/eslint-plugin-eslint-comments](https://www.npmjs.com/package/@eslint-community/eslint-plugin-eslint-comments)
 - [eslint-plugin-jsdoc](https://www.npmjs.com/package/eslint-plugin-jsdoc)
 - [eslint-plugin-tsdoc](https://www.npmjs.com/package/eslint-plugin-tsdoc)
+- [eslint-plugin-regexp](https://www.npmjs.com/package/eslint-plugin-regexp)
 
 ## Requirements
 
